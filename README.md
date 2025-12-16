@@ -20,6 +20,7 @@
 
 ---
 
+<a id="introduction"></a>
 ## 🌟 Introduction
 
 This repository provides a **realistic, structured learning path** for web application penetration testing. Unlike scattered tutorials or overwhelming resources, this guide follows industry-standard methodologies and focuses on practical skills that employers and bug bounty programs value.
@@ -42,7 +43,7 @@ This repository provides a **realistic, structured learning path** for web appli
 - **Bug Bounty Hunters**: Starting their journey
 
 ---
-
+<a id="prerequisites"></a>
 ## 📚 Prerequisites
 
 ### Required Knowledge
@@ -73,7 +74,7 @@ Before starting, you should have:
 - **Virtual Machines**: VirtualBox or VMware (for lab environments)
 
 ---
-
+<a id="learning-phases"></a>
 ## 🎓 Learning Phases
 
 This guide is divided into **four progressive phases**, each building on the previous one. Complete each phase before moving to the next.
@@ -208,6 +209,7 @@ This guide is divided into **four progressive phases**, each building on the pre
 
 ---
 
+<a id="resources"></a>
 ## 📖 Resources
 
 ### Free Learning Platforms
@@ -243,6 +245,7 @@ This guide is divided into **four progressive phases**, each building on the pre
 
 ---
 
+<a id="practice-platforms"></a>
 ## 🎮 Practice Platforms
 
 ### Vulnerable Web Applications (Local Practice)
@@ -263,7 +266,7 @@ This guide is divided into **four progressive phases**, each building on the pre
 - **[pwn.college](https://pwn.college/)** - University-level courses
 
 ---
-
+<a id="tools"></a>
 ## 🛠 Tools
 
 ### Essential Tools (Install First)
@@ -324,6 +327,7 @@ See [Certifications Guide](docs/certifications.md) for preparation tips.
 
 ---
 
+<a id="bug-bounty"></a>
 ## 💰 Bug Bounty
 
 ### Getting Started
@@ -361,6 +365,7 @@ See [Bug Bounty Guide](docs/bug-bounty.md) for detailed strategies.
 
 ---
 
+<a id="community"></a>
 ## 🤝 Community
 
 ### Forums & Discord
@@ -452,6 +457,7 @@ Track your learning journey:
 
 ---
 
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md).
