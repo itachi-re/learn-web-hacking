@@ -304,7 +304,7 @@ sudo apt install zaproxy
 See [Tools Documentation](docs/tools.md) for detailed setup and usage.
 
 ---
-
+<a id="certifications"></a>
 ## 🎖 Certifications
 
 ### Beginner to Intermediate
